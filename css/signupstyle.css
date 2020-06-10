@@ -22,6 +22,12 @@ input[type=submit]:hover {
 	margin: 4px 2px;
 	cursor: pointer;
 }
+label{
+	display:inline-block;
+	position:absolute;
+	right:780px;
+	width:auto;
+	}
 input[type=reset]:hover {
 	background-color:red;
 	border:none;
